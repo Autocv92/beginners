@@ -1,0 +1,38 @@
+.section {
+  background-color: aqua;
+  width: auto;
+  height: 400px;
+}
+.section-center {
+  display: flex;
+}
+h2 {
+  margin-left: 200px;
+}
+
+.article {
+  height: 300px;
+  width: 400px;
+  margin-left: 50px;
+  margin-right: 20px;
+  margin-bottom: 10px;
+  background-color: bisque;
+  text-align: center;
+  box-sizing: border-box;
+  /* position: absolute; */
+}
+.person-img {
+  height: 100px;
+  width: 100px;
+  border-radius: 100%;
+  /* margin-left: 40%; */
+}
+.btn {
+}
+.prev {
+  margin-right: 1200px;
+  margin-bottom: 00px;
+}
+.next {
+  margin-left: 10px;
+}
